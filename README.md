@@ -1,0 +1,2 @@
+# Case_study_bellabeat
+Bellabeat, a high-tech company that manufactures health-focused smart products. Bellabeat Collects data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women.  In this analysis, diffetent datasets will be analysed and the findings will be given.  Various tools such as spreadsheet, SQL, python and tableau are used for the analysis.
